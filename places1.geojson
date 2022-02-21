@@ -1,0 +1,369 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-71.7354, 42.2376]},
+      "properties": {
+        "State": "Massachussets",
+        "K-12 Achievement Score": "84.8",
+        "School Ranking": "B"
+      }
+    },
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-74.7335, 39.7595]},
+      "properties": {
+        "State": "New Jersey",
+        "K-12 Achievement Score": "83.5",
+        "School Ranking": "B"
+      }
+    },
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [ -81.3526, 27.6661]},
+      "properties": {
+        "State": "Florida",
+        "K-12 Achievement Score": "80.2",
+        "School Ranking": "B-"
+      }
+    },
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-78.856, 37.5044]},
+      "properties": {
+        "State": "Virginia",
+        "K-12 Achievement Score": "76.1",
+        "School Ranking": "C"
+      }
+    },
+     { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-72.7384, 41.6059]},
+      "properties": {
+        "State": "Connecticut",
+        "K-12 Achievement Score": "76.3",
+        "School Ranking": "C"
+      }
+    }, { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-89.1545, 40.1191]},
+      "properties": {
+        "State": "Illinois",
+        "K-12 Achievement Score": "76.0",
+        "School Ranking": "C"
+      }
+    }, { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-76.7702, 39.0334]},
+      "properties": {
+        "State": "Maryland",
+        "K-12 Achievement Score": "75.7",
+        "School Ranking": "C"
+      }
+    }, { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-89.7299, 44.6509]},
+      "properties": {
+        "State": "Wisconsin",
+        "K-12 Achievement Score": "75.4",
+        "School Ranking": "C"
+      }
+    }, { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-77.847, 40.8987]},
+      "properties": {
+        "State": "Pennsylvania",
+        "K-12 Achievement Score": "75.2",
+        "School Ranking": "C"
+      }
+    }, { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-110.9159, 38.8649]},
+      "properties": {
+        "State": "Utah",
+        "K-12 Achievement Score": "74.3",
+        "School Ranking": "C"
+      }
+    }, { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-94.6526, 46.8126]},
+      "properties": {
+        "State": "Minnesota",
+        "K-12 Achievement Score": "74.3",
+        "School Ranking": "C"
+      }
+    }, { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-86.0515, 35.8165]},
+      "properties": {
+        "State": "Tennessee",
+        "K-12 Achievement Score": "73.9",
+        "School Ranking": "C"
+      }
+    }, { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-120.4236, 47.3815]},
+      "properties": {
+        "State": "Washington",
+        "K-12 Achievement Score": "72.5",
+        "School Ranking": "C-"
+      }
+    }, { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-105.5453, 39.0001]},
+      "properties": {
+        "State": "Colorado",
+        "K-12 Achievement Score": "73.8",
+        "School Ranking": "C"
+      }
+    }, { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-79.2521, 35.5359]},
+      "properties": {
+        "State": "North Carolina",
+        "K-12 Achievement Score": "73.6",
+        "School Ranking": "C"
+      }
+    }, { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-115.274, 43.913]},
+      "properties": {
+        "State": "Idaho",
+        "K-12 Achievement Score": "73.3",
+        "School Ranking": "C"
+      }
+    }, { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-86.2849, 39.9126]},
+      "properties": {
+        "State": "Indiana",
+        "K-12 Achievement Score": "73.6",
+        "School Ranking": "C"
+      }
+    }, { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-116.6504, 39.348]},
+      "properties": {
+        "State": "Nevada",
+        "K-12 Achievement Score": "73.0",
+        "School Ranking": "C"
+      }
+    }, { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-111.6596, 34.2956]},
+      "properties": {
+        "State": "Arizona",
+        "K-12 Achievement Score": "72.1",
+        "School Ranking": "C"
+      }
+    }, { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-74.8466, 43.3649]},
+      "properties": {
+        "State": "New York",
+        "K-12 Achievement Score": "73.4",
+        "School Ranking": "C"
+      }
+    }, { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-122.032, 39.633]},
+      "properties": {
+        "State": "California",
+        "K-12 Achievement Score": "73.0",
+        "School Ranking": "C"
+      }
+    }, { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-107.5545, 43.0273]},
+      "properties": {
+        "State": "Wyoming",
+        "K-12 Achievement Score": "72.5",
+        "School Ranking": "C"
+      }
+    },
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-83.4511, 32.6524]},
+      "properties": {
+        "State": "Georgia",
+        "K-12 Achievement Score": "72.1",
+        "School Ranking": "C-"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-71.5628, 43.6916]},
+      "properties": {
+        "State": "New Hampshire",
+        "K-12 Achievement Score": "72.1",
+        "School Ranking": "C-"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-105.5203, 26.6006]},
+      "properties": {
+        "State": "Hawaii",
+        "K-12 Achievement Score": "72.0",
+        "School Ranking": "C-"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-72.6624, 44.0725]},
+      "properties": {
+        "State": "Vermont",
+        "K-12 Achievement Score": "71.0",
+        "School Ranking": "C-"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-82.869, 40.37]},
+      "properties": {
+        "State": "Ohio",
+        "K-12 Achievement Score": "71.5",
+        "School Ranking": "C-"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-99.688, 41.5005]},
+      "properties": {
+        "State": "Nebraska",
+        "K-12 Achievement Score": "70.5",
+        "School Ranking": "C-"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-100.2288, 44.4463]},
+      "properties": {
+        "State": "South Dakota",
+        "K-12 Achievement Score": "70.7",
+        "School Ranking": "C-"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-71.5293, 41.6819]},
+      "properties": {
+        "State": "Rhode Island",
+        "K-12 Achievement Score": "71.2",
+        "School Ranking": "C-"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-85.2779, 37.5139]},
+      "properties": {
+        "State": "Kentucky",
+        "K-12 Achievement Score": "70.4",
+        "School Ranking": "C-"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-99.3287, 31.4556]},
+      "properties": {
+        "State": "Texas",
+        "K-12 Achievement Score": "70.3",
+        "School Ranking": "C-"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-69.2175, 45.3376]},
+      "properties": {
+        "State": "Maine",
+        "K-12 Achievement Score": "69.9",
+        "School Ranking": "C-"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-77.0177, 38.8956]},
+      "properties": {
+        "State": "District of Columbia",
+        "K-12 Achievement Score": "70.8",
+        "School Ranking": "C-"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-89.6626, 32.7671]},
+      "properties": {
+        "State": "Mississippi",
+        "K-12 Achievement Score": "69.4",
+        "School Ranking": "D+"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-99.5195, 47.4815]},
+      "properties": {
+        "State": "North Dakota",
+        "K-12 Achievement Score": "69.2",
+        "School Ranking": "D+"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-85.2907, 43.2312]},
+      "properties": {
+        "State": "Michigan",
+        "K-12 Achievement Score": "69.1",
+        "School Ranking": "D+"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-109.6588, 47.0485]},
+      "properties": {
+        "State": "Montana",
+        "K-12 Achievement Score": "68.9",
+        "School Ranking": "D+"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-92.4448, 34.9219]},
+      "properties": {
+        "State": "Arkansas",
+        "K-12 Achievement Score": "67.2",
+        "School Ranking": "D+"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-75.418, 38.819]},
+      "properties": {
+        "State": "Delaware",
+        "K-12 Achievement Score": "68.5",
+        "School Ranking": "D+"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-92.4495, 38.3185]},
+      "properties": {
+        "State": "Missouri",
+        "K-12 Achievement Score": "67.3",
+        "School Ranking": "D+"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-120.5394, 43.9448]},
+      "properties": {
+        "State": "Oregon",
+        "K-12 Achievement Score": "66.8",
+        "School Ranking": "D+"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-78.856, 37.5044]},
+      "properties": {
+        "State": "Iowa",
+        "K-12 Achievement Score": "66.4",
+        "School Ranking": "D"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-93.5064, 42.0838]},
+      "properties": {
+        "State": "Kansas",
+        "K-12 Achievement Score": "66.4",
+        "School Ranking": "D"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-80.8837, 33.9015]},
+      "properties": {
+        "State": "South Carolina",
+        "K-12 Achievement Score": "66.2",
+        "School Ranking": "D"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-97.5042, 35.5815]},
+      "properties": {
+        "State": "Oklahoma",
+        "K-12 Achievement Score": "66.0",
+        "School Ranking": "D"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-80.6102, 38.6449]},
+      "properties": {
+        "State": "West Virginia",
+        "K-12 Achievement Score": "65.0",
+        "School Ranking": "D"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-92.5874, 31.5714]},
+      "properties": {
+        "State": "Louisiana",
+        "K-12 Achievement Score": "64.1",
+        "School Ranking": "D"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-92.5874, 31.5714]},
+      "properties": {
+        "State": "Alabama",
+        "K-12 Achievement Score": "64.3",
+        "School Ranking": "D"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-106.0863, 34.4164]},
+      "properties": {
+        "State": "New Mexico",
+        "K-12 Achievement Score": "62.0",
+        "School Ranking": "D-"
+      }
+    },{ "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-149.4937, 64.2008]},
+      "properties": {
+        "State": "Alaska",
+        "K-12 Achievement Score": "61.5",
+        "School Ranking": "D-"
+      }
+    }
+  ]
+}
