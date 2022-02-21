@@ -24,7 +24,7 @@ $.getJSON("https://raw.githubusercontent.com/erheinrichs/Project1-Leaflet/main/p
   L.geoJson(data  ,{
     pointToLayer: function(feature,latlng){
 	 var marker = L.marker(latlng,{icon: ratIcon});
-      marker.bindPopup(feature.properties.State);
+      marker.bindPopup("State Name: " + feature.properties.State +'<br/>' + "K-12 Achievement Score: " + feature.properties.Achievement + '<br/>' + "State School Ranking: " + feature.properties.Ranking);
         return marker;
       
      
